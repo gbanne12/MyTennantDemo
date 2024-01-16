@@ -1,0 +1,17 @@
+﻿{
+  "AppSettings": {
+    "OnlineUsername": "",
+    "OnlinePassword": "",
+    "OnlineCrmUrl": "https://org9e533c5d.crm4.dynamics.com/",
+    "MfaSecretKey": ""
+  },
+  "BrowserSettings": {
+    "BrowserType": "Chrome",
+    "UseChromeProfile": true,
+    "ChromeProfileDirectory": "C:\\Users\\...",
+    "UsePrivateMode": false,
+    "UCITestMode": true,
+    "PageLoadTimeoutInSeconds": 10,
+    "CommandTimeoutInSeconds": 10
+  }
+}
